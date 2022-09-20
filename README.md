@@ -1,8 +1,10 @@
 # カドゥケウス NEW BLOOD Any% Normal Speedrun Guide
 
-このガイドはカドゥケウス NEW BLOODのRTA用のガイドになります。
+カドゥケウス NEW BLOODのRTA用のガイドになります。
 
 基本的な攻略に関しては[日本語の攻略サイト](https://szsk.github.io/data/tcnb/)を参考にしてください。
+
+## 目次
 
 - [参考](#%E5%8F%82%E8%80%83)
 - [Any%カテゴリのルール](#any%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB)
@@ -16,6 +18,7 @@
   - [Chapter5](#5-1-face-off%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AA%E3%83%95)
   - [Chapter6](#6-1-an-urgent-meeting%E7%B7%8A%E6%80%A5%E4%BC%9A%E8%AD%B0)
   - [Chapter7](#7-1-the-roses-thorns%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%9E-%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%AA%E3%83%BC)
+- [WR動画のエピソードリンク](#wr%E5%8B%95%E7%94%BB%E3%81%AE%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF)
 
 ## 参考
 
@@ -416,7 +419,9 @@ Wii実機でのプレイのみ記録が認められる。エミュレーター�
 
 夜景のシーンで暗転してSkipの表示が消えたらタイマーストップ。
 
-## WR(1:33:59)の動画の各エピード部分へのリンク
+## WR動画のエピソードリンク
+
+WR(1:33:59)の動画の各エピード部分へのリンク
 
 - [1-1 In a Remote Town/極北の町で](https://youtu.be/hm0AbfnbMeo?t=118)
 - [1-2 Montgomery Memorial/モンゴメリ記念病院の風景](https://youtu.be/hm0AbfnbMeo?t=190)
