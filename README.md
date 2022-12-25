@@ -131,7 +131,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 以降のステージでも度々骨片を元に戻す手術が登場する。緑色のエリアは表示されないが判定条件は同じなのでポインタの位置に注意しよう。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/oSjAEyLuPnU/0.jpg)](https://www.youtube.com/watch?v=oSjAEyLuPnU)
 
 ## 1-2 Montgomery Memorial/モンゴメリ記念病院の風景
@@ -155,7 +155,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 内部についても銃創の処置が最後に人口膜を必要としているので、真っ先に銃創を処置した後に血溜まりを全て吸引しよう。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/cSxRXXV4m9s/0.jpg)](https://www.youtube.com/watch?v=cSxRXXV4m9s)
 
 ## 1-4 Sorcery of Salvation/救いの妖術
@@ -172,7 +172,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/1-4b.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/vw0r1FcZYGM/0.jpg)](https://www.youtube.com/watch?v=vw0r1FcZYGM)
 
 ## 1-5 老いゆく病院/An Aging Hospital
@@ -190,7 +190,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 スクロール真下→右下→少し上→右上と注射をしやすい位置取りを心がける。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/pcwKkASB0Co/0.jpg)](https://www.youtube.com/watch?v=pcwKkASB0Co)
 
 ## 1-6 目覚める奇跡/Awakening
@@ -205,7 +205,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/1-6g.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/lQKM2NT48r8/0.jpg)](https://www.youtube.com/watch?v=lQKM2NT48r8)
 
 ## 2-1 冷たい歓迎/An Icy Welcome
@@ -217,7 +217,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/2-1b.jpg) ![image](/images/2-1c.jpg)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/cCJX0vhuCNo/0.jpg)](https://www.youtube.com/watch?v=cCJX0vhuCNo)
 
 ## 2-2 ペースメーカー/The Pacemaker
@@ -234,7 +234,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/2-2a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/hiLmTi15aI8/0.jpg)](https://www.youtube.com/watch?v=hiLmTi15aI8)
 
 ## 2-3 頼りになる者 (ヴァレリー)/Dependable Pair
@@ -245,7 +245,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/2-3a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/OosN66lelAA/0.jpg)](https://www.youtube.com/watch?v=OosN66lelAA)
 
 ## 2-4 スティグマ/Stigma
@@ -260,7 +260,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 最初のケイルを処理すると2体動時に出現する。2体の位置が近いときはレーザーでまとめて薙ぎ払うようにするとレーザーの消耗は増えるが処理速度を上げられる。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/7PtN-xy0U9k/0.jpg)](https://www.youtube.com/watch?v=7PtN-xy0U9k)
 
 ## 2-5 秘密は炎に燃え/Lost in the Flames
@@ -291,21 +291,21 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 タイム短縮のコツはほぼ培養皮膚のカットにかかっている。いかに縦にまっすぐメスを走らせられるかがタイムを分けるのでひたすら練習するしかない。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/1yf3OIUiS4o/0.jpg)](https://www.youtube.com/watch?v=1yf3OIUiS4o)
 
 ## 3-1 新興難病対策チーム/A Special Assignment
 
 胆石の出現パターンはほぼ固定なので操作ミスなく胆嚢摘出まで行えれば胆嚢摘出後に胆石1個をレーザーで破壊して終わりとなる。もし胆石が複数出てしまうなら事前にマーカスで超執刀を使ったほうが時短になる。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/vmoC522qlew/0.jpg)](https://www.youtube.com/watch?v=vmoC522qlew)
 
 ## 3-2 質疑応答/Q & A
 
 超執刀無しでもバイタルは持続する。特殊な患部等は存在しない。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/_OJ062Ik3TM/0.jpg)](https://www.youtube.com/watch?v=_OJ062Ik3TM)
 
 ## 3-3 共同研究/Collaborative Research
@@ -316,7 +316,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/3-3a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/USEK9LQdtdY/0.jpg)](https://www.youtube.com/watch?v=USEK9LQdtdY)
 
 ## 3-4 忌まわしき痕/Cursed Burden
@@ -330,7 +330,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ダミー無視はバイタルをかなり削られるので体力が2の時に一度だけ行うのが良い。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/NMpcMptuzhg/0.jpg)](https://www.youtube.com/watch?v=NMpcMptuzhg)
 
 ## 3-5 DHS副総監 （ヴァレリー）/The Deputy Secretary
@@ -347,7 +347,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/3-5a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/cjIqiEdKP9A/0.jpg)](https://www.youtube.com/watch?v=cjIqiEdKP9A)
 
 ## 4-1 医療格差/Money Talks
@@ -356,7 +356,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 2人目はマーカスの超執刀を使って膿が増殖しないようにする。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/cjIqiEdKP9A/0.jpg)](https://www.youtube.com/watch?v=cjIqiEdKP9A)
 
 ## 4-2 憂鬱なドライブ （ヴァレリー）/Good Samaritans
@@ -369,7 +369,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/4-2a.jpg) ![image](/images/4-2b.jpg) ![image](/images/4-2c.jpg)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/oVs8ljzET_M/0.jpg)](https://www.youtube.com/watch?v=oVs8ljzET_M)
 
 ## 4-3 出演命令 （ヴァレリー）/Forced Appearance
@@ -394,7 +394,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/4-3c.jpg) ![image](/images/4-3d.jpg)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/nSDcpB1s0g4/0.jpg)](https://www.youtube.com/watch?v=nSDcpB1s0g4)
 
 ## 4-4 対決 （ヴァレリー）/Showdown
@@ -413,7 +413,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/4-4a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/HU0T3ed9mOY/0.jpg)](https://www.youtube.com/watch?v=HU0T3ed9mOY)
 
 ## 4-5 スタジオ急変 （ヴァレリー）/Studio Emergency
@@ -424,7 +424,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/4-5a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/Llbsn_vYfCM/0.jpg)](https://www.youtube.com/watch?v=Llbsn_vYfCM)
 
 ## 5-1 フェイス・オフ/Face-Off
@@ -437,7 +437,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/5-1a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/jqaRE6dJ8BY/0.jpg)](https://www.youtube.com/watch?v=jqaRE6dJ8BY)
 
 ## 5-2 不幸は身近に/Misfortune Strikes
@@ -446,7 +446,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 裂傷を含む全ての傷を処置した上でマーカー部分へ人口膜を乗せ終えた時点で心細動が発生しなくなる。中央の破裂部分からは再出血しないので処理手順は自由。心細動発動前に終わらせよう。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/ecg9YHsZ4JE/0.jpg)](https://www.youtube.com/watch?v=ecg9YHsZ4JE)
 
 ## 5-3 暗転/Fade to Black
@@ -459,7 +459,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/5-3a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/dlZSjS0kZsw/0.jpg)](https://www.youtube.com/watch?v=dlZSjS0kZsw)
 
 ## 5-4 隷従/Coercion
@@ -477,7 +477,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 一度血清を投与した後にオニュクスが潜伏するのは潜伏時に頭が向いている方向となる。頭の向きはそこまで正確ではないが、ダミーと一緒に移動する4つ目に関してはほぼ正確に次の潜伏位置へ移動する。
 なお、移動したと思ったら実は潜伏動作前の足元位置だったということもあるのでエコーは徹底しよう。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/px0ZSMUNFAg/0.jpg)](https://www.youtube.com/watch?v=px0ZSMUNFAg)
 
 ## 5-5 ディア・ハント/No Escape
@@ -490,7 +490,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/5-5a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/wiAF6t9OpaI/0.jpg)](https://www.youtube.com/watch?v=wiAF6t9OpaI)
 
 ## 5-6 感染変異/Mutation
@@ -503,14 +503,14 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 **クリア後はテキストスキップのみ行う。**
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/UErT2fSqP3Y/0.jpg)](https://www.youtube.com/watch?v=UErT2fSqP3Y)
 
 ## 5-7 処刑ゲーム/Endgame
 
 [通常攻略参照](https://szsk.github.io/data/tcnb/ch5.html#e57)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/ZVwIhHg7WG8/0.jpg)](https://www.youtube.com/watch?v=ZVwIhHg7WG8)
 
 ## 6-1 緊急会議/An Urgent Meeting
@@ -531,7 +531,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/6-1a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/s6MnxrZJZ4M/0.jpg)](https://www.youtube.com/watch?v=s6MnxrZJZ4M)
 
 ## 6-2 赤道クルルマ/Culuruma
@@ -542,14 +542,14 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/6-2a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/w2Rmtnr591k/0.jpg)](https://www.youtube.com/watch?v=w2Rmtnr591k)
 
 ## 6-3 病める村 （ヴァレリー）/An Ailing Village
 
 ソーマ、ブラキオン、オープスの順。対処法は通常通り。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/mKB-yE3Xmcs/0.jpg)](https://www.youtube.com/watch?v=mKB-yE3Xmcs)
 
 ## 6-4 クルルマ・メタル （ヴァレリー）/Culurium
@@ -565,7 +565,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 ![image](/images/6-4a.jpg) ![image](/images/6-4b.jpg)
 ![image](/images/6-4c.jpg) ![image](/images/6-4d.jpg)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/fPz9ZF3-r9I/0.jpg)](https://www.youtube.com/watch?v=fPz9ZF3-r9I)
 
 ## 6-5 戦火 （ヴァレリー）/The Heat of Battle
@@ -626,7 +626,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/6-5-5a.jpg) ![image](/images/6-5-5b.jpg) ![image](/images/6-5-5c.jpg)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/ClC0BEkcPs8/0.jpg)](https://www.youtube.com/watch?v=ClC0BEkcPs8)
 
 ## 6-6 血塗られた取引/Signed in Blood
@@ -646,7 +646,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 マーカスの超執刀は2体同時に出現したあたりで使用する。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/IfdTtHFz6RE/0.jpg)](https://www.youtube.com/watch?v=IfdTtHFz6RE)
 
 ## 7-1 グランマ （ヴァレリー）/The Rose's Thorns
@@ -661,7 +661,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/7-1c.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/l2BJS6_JQQI/0.jpg)](https://www.youtube.com/watch?v=l2BJS6_JQQI)
 
 ## 7-2 掃討作戦/Strike Force
@@ -699,7 +699,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ここのソーマもコアの耐久力が3でダミーの体力が4なので一度だけダミー無視を行う。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/UYKsvBoqJIA/0.jpg)](https://www.youtube.com/watch?v=UYKsvBoqJIA)
 
 ## 7-3 教授、あなたの名前を/Identity Loss
@@ -707,7 +707,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 最初から超執刀を使用してピン抜き時の待機時間を無くす。
 ピン抜きは左右への判定が狭いので真っ直ぐ上に抜く練習が必須。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/CwU7gM_bKK0/0.jpg)](https://www.youtube.com/watch?v=CwU7gM_bKK0)
 
 ## 7-4 カフカスの兵器庫/Weapon Depot
@@ -718,7 +718,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 バイタルに不安がある場合は注射で回復せずにヒールゼリーかヴァレリーの超執刀を使用する。
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/lWHwUlwO3dE/0.jpg)](https://www.youtube.com/watch?v=lWHwUlwO3dE)
 
 ## 7-5 古城の女/Lady of the Castle
@@ -728,7 +728,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![images](/images/7-5a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/ldydtPwcsY/0.jpg)](https://www.youtube.com/watch?v=ldydtPwcsY)
 
 ## 7-6 マスター・ヴァフシュティ/Master Vakhusti
@@ -743,7 +743,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![images](/images/7-6a.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/091aF8-SAXc/0.jpg)](https://www.youtube.com/watch?v=091aF8-SAXc)
 
 ## エピローグ
