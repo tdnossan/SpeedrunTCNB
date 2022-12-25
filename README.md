@@ -140,7 +140,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 
 ![image](/images/1-2b.webp)
 
-> Youtubeで見る
+> Youtubeで見る<br />
 > [![](http://img.youtube.com/vi/GW3JVsCCU-0/0.jpg)](https://www.youtube.com/watch?v=GW3JVsCCU-0)
 
 ## 1-3 Snowstorm/ブリザード
