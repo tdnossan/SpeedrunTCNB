@@ -382,7 +382,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 超執刀の星を描いておいて右上のタイマーで3.2秒後を目安にして超執刀を発動しよう。
 
 > Youtubeで見る<br />
-> [![](http://img.youtube.com/vi/vmoC522qlew/0.jpg)](https://www.youtube.com/watch?v=vmoC522qlew)
+> [![](http://img.youtube.com/vi/uTAjMnJ9UKo/0.jpg)](https://www.youtube.com/watch?v=uTAjMnJ9UKo)
 
 ## 3-2 質疑応答/Q & A
 
@@ -435,7 +435,7 @@ Wiiの本体設定でセンサーバーの設置位置をテレビに下を選�
 ![image](/images/3-4b.webp)
 
 > Youtubeで見る<br />
-> [![](http://img.youtube.com/vi/NMpcMptuzhg/0.jpg)](https://www.youtube.com/watch?v=NMpcMptuzhg)
+> [![](http://img.youtube.com/vi/dQcqdxKImsw/0.jpg)](https://www.youtube.com/watch?v=dQcqdxKImsw)
 
 ## 3-5 DHS副総監 （ヴァレリー）/The Deputy Secretary
 
